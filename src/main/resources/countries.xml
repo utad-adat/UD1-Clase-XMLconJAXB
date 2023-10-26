@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<countries>
+    <country>
+        <capital>Madrid</capital>
+        <name>España</name>
+        <population>9000</population>
+    </country>
+    <country>
+        <capital>Londres</capital>
+        <name>Reino Unido</name>
+        <population>23094</population>
+    </country>
+    <country>
+        <capital>Paris</capital>
+        <name>Francia</name>
+        <population>343094</population>
+    </country>
+    <country>
+        <capital>Roma</capital>
+        <name>Italia</name>
+        <population>31243094</population>
+    </country>
+    <country>
+        <capital>Lisboa</capital>
+        <name>Portugal</name>
+        <population>9029130</population>
+    </country>
+    <country>
+        <capital>Lisboa</capital>
+        <name>Portugal</name>
+        <population>9029130</population>
+    </country>
+</countries>
